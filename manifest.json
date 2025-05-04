@@ -1,0 +1,10 @@
+{
+    "name": "Handwriting (Kalam)",
+    "author": "Kumar Anurag",
+    "repo": "kmranrg/obsidian-handwriting-theme",
+    "description": "A clean and friendly handwriting-style theme using Kalam font, with colored headings and academic-friendly formatting.",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "theme": true
+  }
+  
