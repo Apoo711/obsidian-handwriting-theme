@@ -1,0 +1,49 @@
+/* -------------------------------------------------------------------
+   Handwriting Theme for Obsidian
+   Author: Kumar Anurag (@kmranrg)
+   Font: Kalam (Google Fonts)
+   Purpose: A clean and friendly handwriting style for focused note-taking.
+   Apply via: yaml frontmatter → cssclass: handwriting
+------------------------------------------------------------------- */
+
+/* === Import Kalam Handwriting Font === */
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+/* === Base Font for Entire Note (Edit + Preview Mode) === */
+.markdown-preview-view.handwriting,
+.markdown-source-view.handwriting .cm-content {
+  font-family: 'Kalam', cursive;
+  font-size: 1.3em;
+  line-height: 1.6;
+  color: #4682b4; /* Sky blue for body text */
+}
+
+/* === Headings Styling (Preview and Live Edit) === */
+.markdown-preview-view.handwriting h1,
+.markdown-preview-view.handwriting h2,
+.markdown-preview-view.handwriting h3,
+.markdown-source-view.handwriting .cm-header-1,
+.markdown-source-view.handwriting .cm-header-2,
+.markdown-source-view.handwriting .cm-header-3 {
+  color: #1e3a8a; /* Pen-like deep blue */
+}
+
+/* === Bold Text (Preview and Edit) === */
+.markdown-preview-view.handwriting strong,
+.markdown-source-view.handwriting .cm-strong {
+  color: #800080; /* Purple for emphasis */
+}
+
+/* === Inline Code Blocks Styling === */
+.handwriting code,
+.handwriting .cm-inline-code {
+  font-family: 'Courier New', monospace;
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* === Math Rendering Support for Preview Mode === */
+.markdown-preview-view.handwriting mjx-container {
+  font-family: 'Kalam', cursive !important;
+}
