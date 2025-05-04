@@ -1,6 +1,6 @@
 # Obsidian Handwriting Theme (Kalam)
 
-Bring the feel of handwritten notes to your Obsidian vault using the **Kalam** font!
+Bring the feel of handwritten notes to your Obsidian vault using the [Kalam](https://fonts.google.com/specimen/Kalam) font!
 
 ## ✍️ Features
 - Beautiful Kalam handwriting font
