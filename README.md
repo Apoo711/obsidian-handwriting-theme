@@ -23,7 +23,7 @@ If you're browsing themes inside Obsidian:
 
 1. Go to **Settings → Appearance → Themes**
 2. Click **"Browse"** and search for:  
-   `Handwriting Theme (Kalam)`
+   `Handwriting (Kalam)`
 3. Click **Install** and **Use**
 
 ---
