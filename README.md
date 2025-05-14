@@ -36,7 +36,7 @@ If you'd like to install it manually:
 2. Copy it to `.obsidian/themes/handwriting-theme/` inside your vault
 3. Make sure `manifest.json` and `screenshot.png` are also in the same folder
 4. In Obsidian:  
-   Go to **Settings → Appearance → Themes → Select: Handwriting Theme (Kalam)**
+   Go to **Settings → Appearance → Themes → Select: Handwriting (Kalam)**
 
 ---
 
